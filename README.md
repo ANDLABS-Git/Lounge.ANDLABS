@@ -1,4 +1,7 @@
-Lounge.ANDLABS
+ Lounge.ANDLABS
 ==============
+ANDROID CLIENT
 
-Multi.PLAYER - Multi.Plattform - Multi.GAME  ::  Lounge is a comfortable Framework that provides infrastructure, connection and game Management
+http://lounge.andlabs.com/
+
+Multi.PLAYER - Multi.Plattform - Multi.GAME :: Lounge is a comfortable Framework that provides infrastructure, connection and game Management for mobile Plattforms 
